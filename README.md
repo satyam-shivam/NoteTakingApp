@@ -1,5 +1,5 @@
 ## Note Taking App :
-
+<br>
 1. This is a note taking App with built-in markdown feature.
 <br>
 2. It stores user's data in browsers's local storage.

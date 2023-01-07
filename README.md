@@ -58,3 +58,7 @@
 <br>
 <br>
 <img src="public/noteDeleted.PNG" alt="note-deleted" width="500"/>
+<br>
+<br>
+
+<h3><strong>The App is deployed here - </strong> <a href="https://lambent-blancmange-004188.netlify.app/">Notes App</a></h3>

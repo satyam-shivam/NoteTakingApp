@@ -1,4 +1,4 @@
-# Note Taking App :
+## Note Taking App :
 
 1. This is a note taking App with built-in markdown feature.
 <br>
